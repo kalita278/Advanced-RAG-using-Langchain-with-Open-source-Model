@@ -17,3 +17,4 @@ Using LangChain framework, I built a  Retrieval Augmented Generation (RAG) syste
 - ChromaDB, FAISS, ObjectBox
 - Streamlit
 - HuggingFace
+- Olama
