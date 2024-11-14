@@ -28,3 +28,4 @@ Using LangChain framework, I built a  Retrieval Augmented Generation (RAG) syste
 - Streamlit
 - HuggingFace
 - Olama
+- Groq
