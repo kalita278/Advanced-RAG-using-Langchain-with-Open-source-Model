@@ -12,6 +12,16 @@ As we know that LLMs like Gemini, Gpt, Llama lack the company specific informati
 Using LangChain framework, I built a  Retrieval Augmented Generation (RAG) system that can utilize the power of LLM like Llama, Gemini 1.5 Pro to answer questions on specific pdfs, websites, wikipedia, arXiv etc. In this process, external data is retrieved and then passed to the LLM during the generation step.
 
 
+# 🪜 Steps
+- Loding the external data
+- Chunking the data into smaller size
+- Vector Database and Vector Embeddings
+- Create retrieval tool (or agents)
+- Load the LLM model
+- Design prompt
+- Finally, create Retrieval chain (or agents)
+
+
 # 🛠 Tech stack
 - Langchain
 - ChromaDB, FAISS, ObjectBox
